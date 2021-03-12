@@ -4,14 +4,12 @@ WiredIn coding challenge project
 
 **Android Screenshots**
 
-<img src="https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/android1.png" height="300" alt="Android screenshot">
-
-![Android screenshot for page 1](https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/android1.png)     
+<img src="https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/android1.png" height="500" alt="Android screenshot 1">           <img src="https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/android2.png" height="500" alt="Android screenshot">    
 
 **iOS Screenshots**
 
 
-![iOS screenshot for page 1](https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/ios1.png)    
+<img src="https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/ios1.png" height="500" alt="iOS screenshot 1">                    <img src="https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/ios2.png" height="500" alt="iOS screenshot 2">  
 
 
 ## How to run this project
