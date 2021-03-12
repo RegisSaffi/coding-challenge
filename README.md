@@ -1,16 +1,39 @@
-# challenge
+# Coding challenge project
 
-WiredIn codi ng challenge project
+WiredIn coding challenge project
 
-## Getting Started
+**Android Screenshots**
 
-This project is a starting point for a Flutter application.
+![Android screenshot for page 1](https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/android1.png)                ![Android screenshot for page 2](https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/android2.png)
 
-A few resources to get you started if this is your first Flutter project:
+**iOS Screenshots**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![iOS screenshot for page 1](https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/ios1.png)          ![iOS screenshot for page 2](https://github.com/RegisSaffi/coding-challenge/blob/master/assets/screenshots/ios22.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## How to run this project
+
+This project is created with flutter and dart
+
+For you to compile and run this project:
+
+[Download flutter SDK](https://flutter.dev/)
+
+1. Follow instructions to setup flutter SDK based on your OS.
+1. If everything is goes well, clone this project.
+1. Make sure you have android studio with Android Emulator os iOS emulator configured, you can also use real device connected via USB.
+1. Open it in either Android Studio or Visual studio code to run it, you can also run it from terminal with `Flutter run` command.
+
+**External dependencies used**
+
+- [Flutter_SVG](https://pub.dev/packages/flutter_svg)
+
+I used above package to be able to display SVG images in my app natively on both Android and iOS
+
+**Issues I met**
+
+- Due to that there was no resources provided like (Images, color codes, Fonts ,icons) I couldn't create the actual look of the application.
+- Due to that there was no user stories provided, I could't connect it to any Backend or database, it is just the UI.
+
+
+For help getting started with Flutter, view the [online documentation](https://flutter.dev/docs)
