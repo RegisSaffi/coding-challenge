@@ -1,0 +1,29 @@
+name: challenge
+description: WiredIn coding challenge project
+
+# The following defines the version and build number for the application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #External dependencies
+  flutter_svg: ^0.19.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+     - assets/graphics/
+     - assets/images/
